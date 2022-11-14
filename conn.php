@@ -1,9 +1,9 @@
 <?php 
 
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "cee_db";
+$host = "sql8.freesqldatabase.com";
+$user = "sql8569229";
+$pass = "LNyrI179bq";
+$db   = "sql8569229";
 $conn = null;
 $newConn = null;
 
