@@ -25,7 +25,7 @@
 					<span class="login100-form-title-1">
 						Examinee Sign In
 					</span>
-					<span style="color:green; padding:2px 8px 2px 8px; text-align: center; background-color: #C0C0C0; border-radius: 20px;">Using two factor authentication</span>					
+					<!-- <span style="color:green; padding:2px 8px 2px 8px; text-align: center; background-color: #C0C0C0; border-radius: 20px;">Using two factor authentication</span>					 -->
 				</div>
 				<?Php if(isset($_SESSION['error'])) { ?>
 					<div style="display: flex; justify-content:center; width:100%">
