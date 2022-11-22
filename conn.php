@@ -1,9 +1,9 @@
 <?php 
 
-$host = "sql8.freesqldatabase.com";
-$user = "sql8569229";
-$pass = "LNyrI179bq";
-$db   = "sql8569229";
+$host = "db4free.net";
+$user = "userexamplatform";
+$pass = "Pa$$w0rd!";
+$db   = "examplatform";
 $conn = null;
 $newConn = null;
 
