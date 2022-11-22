@@ -2,7 +2,7 @@
 
 $host = "db4free.net";
 $user = "userexamplatform";
-$pass = "Pa$$w0rd!";
+$pass = 'Pa$$w0rd!';
 $db   = "examplatform";
 $conn = null;
 $newConn = null;
